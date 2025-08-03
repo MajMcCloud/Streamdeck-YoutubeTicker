@@ -39,7 +39,7 @@ When pressing a button, you can choose between several actions:
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/Streamdeck-YoutubeTicker/releases) page.
+1. Download the latest release from the [Releases](https://github.com/MajMcCloud/Streamdeck-YoutubeTicker/releases) page.
 2. Install the plugin using the StreamDeck software:
    - Open StreamDeck.
    - Go to __Settings__ > __Plugins__.
