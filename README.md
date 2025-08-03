@@ -67,4 +67,4 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-This project is not affiliated with Elgato or CoinMarketCap. Use at your own risk.formation, visit the [GitHub repository](https://github.com/yourusername/Streamdeck-YoutubeTicker)
+This project is not affiliated with Elgato or YouTube. Use at your own risk.formation, visit the [GitHub repository](https://github.com/yourusername/Streamdeck-YoutubeTicker)
