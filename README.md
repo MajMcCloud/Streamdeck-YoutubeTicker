@@ -20,6 +20,10 @@ Streamdeck-YoutubeTicker is a plugin designed for Elgato StreamDeck devices. It 
 - Customizable display options
 - Works on Windows and Mac OS
 
+![Preview](Assets/2-preview.png)
+
+![Preview](Assets/3-preview.png)
+
 ## Button Actions
 
 When pressing a button, you can choose between several actions:
