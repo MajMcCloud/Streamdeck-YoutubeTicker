@@ -65,6 +65,22 @@ Contributions are welcome! Please open issues or submit pull requests via GitHub
 
 This project is licensed under the MIT License.
 
+## Donate
+
+Paypal: [https://paypal.me/majmccloud](https://paypal.me/majmccloud)
+
+Bitcoin: `1GoUJYMwAvBipQTfw2FKydAz12J8RDyeJs` / `bc1qqwlp0p5ley29lsu6jhe0qv7s7963kfc7d0m53d`
+
+Etherium: `0xAf3835104c2C3E5b3e721FA2c7365955e87DB931`
+
+Litecoin: `LRhF1eB7kneFontcDRDU8YjJhEm2GoYHch`
+
+Dashcoin: `XudiUwWtSmAJj1QDdVW7jocQumJFLsyoGZ`
+
+Tron: `TYVZSykaVT1nKZnz9hjDgBRNB9VavU1bpW`
+
+BitTorrent: `TYVZSykaVT1nKZnz9hjDgBRNB9VavU1bpW`
+
 ## Disclaimer
 
 This project is not affiliated with Elgato or YouTube. Use at your own risk.
